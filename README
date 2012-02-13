@@ -1,0 +1,4 @@
+type './tinysnmp --help' to learn how to use.
+
+SNMP trap and inform is not supported.
+

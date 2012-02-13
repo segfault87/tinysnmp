@@ -1,0 +1,9 @@
+How to install:
+
+tinysnmp는 autotools를 이용하여 빌드됩니다. 다른 autotools 기반의 패키지와 마찬가지로
+다음 명령어로 소스 코드를 빌드할 수 있습니다.
+
+./configure --prefix=[설치 위치]
+make
+make install  # 관리자 권한 필요
+
